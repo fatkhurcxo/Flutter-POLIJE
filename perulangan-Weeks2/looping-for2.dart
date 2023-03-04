@@ -1,3 +1,4 @@
+// Dinda Amalia Julyandri
 void main(List<String> args) {
   for (var deret = 0; deret < 10; deret += 2) {
     print("Iterasi dengan increment +2 hasilnya :" + deret.toString());

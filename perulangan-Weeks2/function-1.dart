@@ -1,7 +1,8 @@
+// Dinda Amalia Julyandri
 void main() {
   tampilkan();
 }
 
 tampilkan() {
-  print("Hello Peserta Bootcamp");
+  print("Hello Dinda Cantik");
 }

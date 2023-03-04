@@ -1,3 +1,4 @@
+//Dinda Amalia Julyandri
 void main(List<String> args) {
   var deret = 5;
   var jumlah = 0;
